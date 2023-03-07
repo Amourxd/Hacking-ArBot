@@ -1,0 +1,25 @@
+# Get an idea about vars filling from this file.
+# Don't use values from this file. This file is just made to give you an idea about vars filling.
+
+
+API_ID = 16363425 #Your API id
+
+API_HASH = "6c23b156912531c4gdba290f9458b6e4" #Your API hash
+
+OWNER_ID = 5482561033 #Your user id (only 1 value)
+
+BOT_ID = 5786487244 #Bot's user id
+
+BOT_USERNAME = 'hacking_arbot'  #username without '@'
+
+BOT_TOKEN = "1860999973:AAH5HoihSvzxbQENwBi8brOcP5phCemIOKE"
+
+HANDLER = "!" #custom command for sudo and dev commands, rather than /
+
+HEROKU_API_KEY = "" #Your heroku api key. get it from https://dashboard.heroku.com/account, scroll down and in API key section click on Reveal and then copy that key.
+
+HEROKU_APP_NAME = "" #Your heroku app name....
+
+SUDO_USERS = "5482561033 5547586019" #For more than sudo users just separate their user id using space ' '.
+
+DEV_USERS = "5482561033" #For more than dev users just separate their user id using space ' '.
